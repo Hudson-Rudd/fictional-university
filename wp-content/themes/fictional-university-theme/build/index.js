@@ -9052,7 +9052,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 class Search {
   constructor() {
-    alert("hello123");
+    alert("hello12345678");
   }
 }
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Search);
