@@ -1,6 +1,6 @@
 class Search {
     constructor() {
-        alert("hello")
+        alert("hello123")
     }
 }
 
